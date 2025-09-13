@@ -1,0 +1,17 @@
+{
+  "name": "wireless-cctv-server",
+  "version": "1.0.0",
+  "description": "Simple WebSocket server for wireless mobile-to-PC CCTV streaming",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.13.0"
+  },
+  "engines": {
+    "node": ">=14"
+  },
+  "author": "Aryan Saraf",
+  "license": "MIT"
+}
